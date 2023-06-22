@@ -7,7 +7,7 @@ class TestClass03{
 	
 	public void test1() {
 		
-		int num;	// 일회성 변수 (메서드가 끝나면 없어짐)
+		// int num;	 // 일회성 변수 (메서드가 끝나면 없어짐)
 		var = 100;
 	}
 	

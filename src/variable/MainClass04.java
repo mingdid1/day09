@@ -16,6 +16,9 @@ class Test04 {
 
 public class MainClass04 {
 	public static void main(String[] args) {
+		Test04 t = new Test04();
 		
+		t.inputData();
+		t.printData();
 	}
 }
